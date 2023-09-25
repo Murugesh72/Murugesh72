@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Murugesh M
 - 👀 I’m an Android Enthusiast
-- 🌱 I’m currently learning AI/ML
+- 🌱 I’m currently learning AI/ML & Flutter 
 - 📫 Try to reach me on instagram @murugesh_72 or twitter @Murugesh72
 
 <!---
