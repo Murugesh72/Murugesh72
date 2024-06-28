@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Murugesh M
 - 👀 I’m an Android Enthusiast
 - 🌱 I’m currently learning AI/ML & Flutter 
-- 📫 Try to reach me on instagram @murugesh_72 or twitter @Murugesh72
+- 📫 Try to reach me on reddit @murugesh_72 or twitter @Murugesh72
 
 <!---
 Murugesh72/Murugesh72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
